@@ -19,14 +19,6 @@
 
 <img alt="TF" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Plotly-013243?style=for-the-badge&logo=plotly&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/> 
 
-<h4><strong>Database</strong></h4>
-
-<img alt="TF" src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/PostgresSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/dynamodb-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
-
-
-<!--<h4><strong>Backend</strong></h4>
-
-<!--<img alt="TF" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/nginx-269539?style=for-the-badge&logo=nginx&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/apache-A81C7D?style=for-the-badge&logo=apache&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white"/> 
 
 <h4><strong>Frontend</strong></h4>
 
