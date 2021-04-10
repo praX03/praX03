@@ -2,6 +2,7 @@
 
 
   <p>Hi, I am Pratham, a Computer Science freshman based in Guwahati, Assam.</br>I have keen interest in Computational Neuroscience and Cognitive Psychology. I like to make Machine Learning applications and <i><img src="https://emojis.slackmojis.com/emojis/images/1536350972/4592/blob-wink.gif?1536350972" width="20">alfredo</i>.</p>
+  <img src="https://prax03.github.io/images/1.gif" width="140" height="100" />
 <h3>Techy stuff: </h3>
 
 <br>
