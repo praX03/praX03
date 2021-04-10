@@ -1,4 +1,4 @@
-<h1><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fhello-gifs&psig=AOvVaw1cxY_UUxLauULQAF9vzYSj&ust=1618138065158000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCmyqHA8-8CFQAAAAAdAAAAABAD" width="30"/> How you doin'?</h1>
+<h1><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FAppleWatch%2Fcomments%2Fgy9b56%2Fdoes_someone_have_this_hello_animation_in_full%2F&psig=AOvVaw1weFuX1a61kzh-H_g9PlxV&ust=1618138237609000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPD0yO7A8-8CFQAAAAAdAAAAABAK" width="30"/> How you doin'?</h1>
 
 
   <p>Hi, I am Pratham, a Computer Science freshman</p>
