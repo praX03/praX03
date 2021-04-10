@@ -1,4 +1,4 @@
-<h1><img src="https://i.redd.it/b3ynmdq4lg351.jpg" width="30"/> How you doin'?</h1>
+<h1><img src="https://tenor.com/view/hello-hi-minion-gif-16235329" width="30"/> How you doin'?</h1>
 
 
   <p>Hi, I am Pratham, a Computer Science freshman</p>
