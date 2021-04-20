@@ -27,6 +27,10 @@
 
 <br>
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=praX03&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
 
 <h4>Tools I use: <img src="https://slackmojis.com/emojis/6017-meow_cookie/download" width="25"></h4>
 
