@@ -32,11 +32,11 @@
 </p>
 
 
-<h4>Tools I use: <img src="https://slackmojis.com/emojis/6017-meow_cookie/download" width="25"></h4>
+<h4>Toolkit:/h4>
 
 <img alt="TF" src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/> 
 
 
-<h4>Contact Me: <img src="https://slackmojis.com/emojis/6020-meow_headache/download" width="25"></h4>
+<h4>Contact Me:</h4>
 
 <a href="https://wa.me/919024235097"><img alt="TF" src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a> <a href="https://t.me/prax03"><img alt="TF" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/><a href="https://www.linkedin.com/in/pratham-kumar-021371176/"> <img alt="TF" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.snapchat.com/add/pratham_mm"><img alt="TF" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a> <a href="https://open.spotify.com/user/qrxxfnnsoqkt6hhk3sli9qxky?si=iTvFm4yiTiGmPTeMrKvtpQ&nd=1"><img alt="TF" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
