@@ -17,7 +17,8 @@
 
 <h4><strong>Data Engineering</strong></h4>
 
-<img alt="TF" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Plotly-013243?style=for-the-badge&logo=plotly&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/> 
+<img alt="TF" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Plotly-013243?style=for-the-badge&logo=plotly&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/><img alt="TF" src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
 
 
 <h4><strong>Frontend</strong></h4>
@@ -28,7 +29,6 @@
 <img alt="TF" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> 
 
 <h4><strong>Toolkits and frameworks:</strong></h4>
-<img alt="TF" src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=praX03&show_icons=true&count_private=true&theme=dark" width="350"></a>
