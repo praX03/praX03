@@ -1,7 +1,7 @@
 <h1><img src="https://i.redd.it/b3ynmdq4lg351.jpg" width="60"/> &nbsp;&nbsp;&nbsp; <i>How you doin'?</i></h1>
 
 
-  <p>Hi, I am Pratham, a Computer Science freshman based in Guwahati, Assam.<img align="right" src="2.gif" width="400" height="300"/></br>I have keen interest in Computational Neuroscience and Cognitive Psychology. I like to make Machine Learning applications and <i>&nbsp;&nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1536350972/4592/blob-wink.gif?1536350972" width="20">&nbsp;&nbsp;pasta</i>.</p>
+  <p>Hi, I am Pratham, a Computer Science freshman based in Guwahati, Assam.<img align="right" src="2.gif" width="400" height="300"/></br>I have keen interest in Computational Neuroscience and Cognitive Psychology. I like to make Machine Learning applications and <i>pasta</i>.</p>
 <h3>Techy stuff: </h3>
 
 <br>
