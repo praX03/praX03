@@ -4,7 +4,6 @@
   <p>Hi, I am Pratham, a Computer Science freshman based in Guwahati, Assam.<img align="right" src="2.gif" width="400" height="300"/></br>I have keen interest in Computational Neuroscience and Cognitive Psychology. I like to make Machine Learning applications and pasta.</p>
 <h3>Techy stuff: </h3>
 
-<br>
 <h4><strong>Languages</strong></h4>
 
 <img alt="TF" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
