@@ -1,5 +1,5 @@
 <h1>Namaste!</h1>
-<img src="03.png" width="1000" height="300"/>
+<img src="03.png" width="1000" height="500"/>
 
 
 <h2 align='center'>Hello! I am Pratham</h2>
