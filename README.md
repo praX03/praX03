@@ -2,7 +2,7 @@
 <img src="header.png"/>
 
 
-<h2 align='center'>Hello! I am Pratham</h2>
+<h2 align='center'>I am Pratham</h2>
 <p align='center'><i>"Another 17 year old guy trying to find his epiphany"</i></p>
 
 
