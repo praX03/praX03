@@ -1,9 +1,9 @@
 <h1>Namaste!</h1>
-<img src="3.png" width="1000" height="500"/>
+<img src="3.png" width="1000" height="300"/>
 
-<p>I am Pratham
-</br><i>Another 17 year old guy trying to find his epiphany</i></br> 
-</p>
+
+<h2 align='center'>Hello! I am Pratham</h2>
+<p align='center'><i>Another 17 year old guy trying to find his epiphany</i></p>
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=praX03&show_icons=true&count_private=true&theme=dark" width="350"></a>
