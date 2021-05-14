@@ -1,2 +1,2 @@
 <h1>Work in progress</h1>
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.markspaneth.com%2Fassets%2Fimages%2Fblog%2F_list_image%2F02_02_18_508408464_AAB_560x292.jpg&imgrefurl=https%3A%2F%2Fwww.markspaneth.com%2Fblog%2F2018%2Fauditing-work-in-progress&tbnid=9sQMFSFXkDdKsM&vet=12ahUKEwjrnuXZrcnwAhWCQH0KHeyGAswQMygAegUIARDZAQ..i&docid=_8COEHZ0NzwxmM&w=560&h=292&q=work%20in%20progress&client=safari&ved=2ahUKEwjrnuXZrcnwAhWCQH0KHeyGAswQMygAegUIARDZAQ" width=100px; height=60px>
+<img src="./Work in Progress - Text Only.png" width=100px; height=60px>
