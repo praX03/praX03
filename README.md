@@ -20,8 +20,7 @@
 
 <h4>I'm very open to collaboration(s)</h4>
 
->You can collab with me if-
-
+><strong>You can collab with me if-</strong>
 >- You are aware of the fact that your mind is the single most beautiful thing or,
 >- You also want to *create robots* that would take on the earth some day or,
 >- You love *minimalist and aesthetic designs*
