@@ -24,7 +24,7 @@
 >- You are aware of the fact that your mind is the single most beautiful thing or,
 >- You also want to *create robots* that would take on the earth some day or,
 >- You love *minimalist and aesthetic designs*
->- You are really good with *web development* I could use some help :(.
+>- You are really good with *web development* skills. I could use some help :(.
 
 <h4>Connect with Me:</h4>
 <p>Thank you for stalking me so professionally. Now, since you have come this far, might as well say a 'Hi!'. I promise, I reply fast xD</p>
