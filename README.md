@@ -7,10 +7,10 @@
 
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=praX03&show_icons=true&count_private=true&theme=dark" width="350"></a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praX03&layout=compact&theme=dark" width="350"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=praX03&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 <p align='center'>
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praX03&layout=compact&theme=dark" width="350"></a>
 </p>
 
 <h3>Here are some of the tools/tech/frameworks I know/trying to know: </h3>
@@ -19,15 +19,15 @@
 
 <h4>I'm very open to collaboration(s)</h4>
 
-><strong>You can collab with me if-</strong>
->- You are aware of the fact that your mind is the single most beautiful thing or,
->- You also want to *create robots* that would take on the earth some day or,
->- You love *minimalist and aesthetic designs*
->- You are really good with *web development* skills. I could use some help :(.
+<strong>You can collab with me if-</strong>
+- You are aware of the fact that your mind is the single most beautiful thing or,
+- You also want to *create robots* that would take on the earth some day or,
+- You love *minimalist and aesthetic designs*
+- You are really good with *web development* skills. I could use some help :(.
 
 <h4>Connect with Me:</h4>
 <p>Thank you for stalking me so professionally. Now, since you have come this far, might as well say a 'Hi!'. I promise, I reply fast xD</p>
 <a href="https://wa.me/919024235097"><img alt="TF" src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a> <a href="https://t.me/prax03"><img alt="TF" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/><a href="https://www.linkedin.com/in/pratham-kumar-021371176/"> <img alt="TF" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.snapchat.com/add/pratham_mm"><img alt="TF" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a> <a href="https://open.spotify.com/user/qrxxfnnsoqkt6hhk3sli9qxky?si=iTvFm4yiTiGmPTeMrKvtpQ&nd=1"><img alt="TF" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </br><b><i>I have really good playlists on Spotify 😉</b></i>
   
-  ![](https://komarev.com/ghpvc/?username=praX03&color=green)
+  ![](https://komarev.com/ghpvc/?username=praX03&color=red)
