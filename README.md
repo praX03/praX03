@@ -7,11 +7,10 @@
 
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=praX03&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=praX03&show_icons=true&count_private=true&theme=dark" width="350"></a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praX03&layout=compact&theme=dark" width="350"></a>
 </p>
-
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praX03&layout=compact&theme=dark" width="350"></a>
+  
 </p>
 
 <h3>Here are some of the tools/tech/frameworks I know/trying to know: </h3>
